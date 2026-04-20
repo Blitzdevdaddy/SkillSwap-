@@ -1,6 +1,3 @@
-concurrency:
-  group: "pages"
-  cancel-in-progress: true
 name: Deploy to GitHub Pages
 
 on:
